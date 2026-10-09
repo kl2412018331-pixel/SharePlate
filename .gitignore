@@ -1,0 +1,24 @@
+# Gradle and Kotlin build/cache output
+.gradle/
+.gradle-user/
+.kotlin/
+**/build/
+
+# Local Android SDK path; differs between computers
+local.properties
+
+# Android Studio machine-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/caches/
+*.iml
+
+# Native build output
+.externalNativeBuild/
+.cxx/
+
+# Operating system files
+.DS_Store
+Thumbs.db

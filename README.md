@@ -23,4 +23,4 @@ SharePlate is a native Android app built with Kotlin and Android views. It does 
 - `app/build.gradle.kts` and `app/src/main/AndroidManifest.xml` configure the Android app.
 - Accounts, food listings and pickups use Android `SharedPreferences` on this device. Passwords are salted and hashed. Accounts do not synchronize between phones; multi-device service requires a shared backend.
 
-The course brief requires an original group solution, clear member contributions, a GitHub repository, at least five APA references, and a Turnitin report. It also limits AI use to 20%. Adapt and understand the project as a group, follow your course's disclosure rules, and make sure each member can explain the code and storage choices.
+

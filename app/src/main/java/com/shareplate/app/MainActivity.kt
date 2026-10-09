@@ -30,7 +30,7 @@ private const val INK = 0xFF202920.toInt()
 private const val MUTED = 0xFF747D72.toInt()
 private const val LINE = 0xFFE9EBE4.toInt()
 
-data class Food(git --version
+data class Food(
     val id: String, val title: String, val category: String, val quantity: Int,
     val unit: String, val donor: String, val area: String, val deadline: String,
     val emoji: String, val notes: String, val allergens: String = "Not specified",
